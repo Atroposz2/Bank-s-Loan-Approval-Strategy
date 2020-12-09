@@ -1,2 +1,3 @@
 # Bank-s-Loan-Approval-Strategy
 How to improve an imaginary bank's loan approval strategy with Machine Learning techniques
+The objective of the analysis is to come up with a new strategy to grant loans, specifically to build a model that is better than the bank’s current loan approval model. In the end, an improved loan approval strategy can lead to increased profitability for the bank by decreasing the proportion of non-performing loans and loan loss provisions. If the bank were able to reduce the amount of money it normally puts aside for potential future loan losses and instead use the cash for more profitable purposes, that would be advantageous for both the bank and its shareholders too.
